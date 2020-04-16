@@ -1,1 +1,1 @@
-# tictactoe
+Basic TicTacToe App
